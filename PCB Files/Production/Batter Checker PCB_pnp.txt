@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Batter Checker PCB
+*Date=01:35:40
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;5.51232;-29.6917;90;Bottom;I/O
+2;;[THT];19.3769;-15.5934;0;Bottom;DWN
+3;;;26.9106;-19.6822;0;Bottom;TXT1
+4;10k;THT;23.6895;-29.3879;0;Bottom;10k
+5;;[THT];29.5906;-15.6021;0;Bottom;SEL
+6;;THT;29.3174;-3.55296;-90;Bottom;- + A L
+7;;THT;14.5935;-28.2028;90;Bottom;- +
+8;;;18.1307;-15.9082;-90;Bottom;Pro Micro
+9;;[THT];9.16344;-15.5691;0;Bottom;UP
+10;;THT;11.8813;-3.45362;90;Bottom;5 G L G E V B U
+11;10k;THT;23.6567;-26.6293;0;Bottom;100k
+12;;;26.8635;-21.1799;0;Bottom;TXT1
